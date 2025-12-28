@@ -24,3 +24,15 @@ It demonstrates practical skills in data extraction, storage, and analysis, with
 - MySQL + SQLAlchemy
 - Pandas
 
+## ETL Architecture
+Spotify API
+   ->
+Python (Spotipy)
+   ->
+Data Cleaning & Transformation
+   ->
+MySQL (Artists | Albums | Tracks)
+   ↓->
+Pandas
+   ->
+CSV / Analysis
