@@ -86,3 +86,10 @@ Curated datasets are exported as CSV files:
 - artists.csv
 - albums.csv
 - tracks.csv
+
+---
+
+👤 Author
+
+Sripathi.E
+Aspiring Data Engineer.
