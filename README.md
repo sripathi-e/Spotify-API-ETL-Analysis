@@ -52,7 +52,6 @@ Tracks Table
 - artist_id (Foreign Key)
 - album_id (Foreign Key)
 - duration_sec
-- explicit
 - popularity
 
 ## ETL Pipeline
